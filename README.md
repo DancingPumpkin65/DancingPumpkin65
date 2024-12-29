@@ -18,7 +18,7 @@ WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
 
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56ddcf59-3cb4-4f3d-851e-91ec86e67871/df9xsqo-2fe2dc5c-9862-4a28-84bc-57adb7e2681e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2ZGRjZjU5LTNjYjQtNGYzZC04NTFlLTkxZWM4NmU2Nzg3MVwvZGY5eHNxby0yZmUyZGM1Yy05ODYyLTRhMjgtODRiYy01N2FkYjdlMjY4MWUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-pQrOOekatcOn1eawfz0H-Y7ksMj64ibZQdit3NGzQQ" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56ddcf59-3cb4-4f3d-851e-91ec86e67871/df9xsql-e57252a8-9e43-4673-8853-cf3b64d6bba0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2ZGRjZjU5LTNjYjQtNGYzZC04NTFlLTkxZWM4NmU2Nzg3MVwvZGY5eHNxbC1lNTcyNTJhOC05ZTQzLTQ2NzMtODg1My1jZjNiNjRkNmJiYTAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eAGQGy_Zmp702vlquTVBh65HpuqHfigYF6_t6GBrp6c" height="30" alt="java logo"  />
   <img width="12" />
