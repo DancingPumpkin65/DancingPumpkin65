@@ -1,18 +1,12 @@
-<div style="position: relative; text-align: center;">
-    <!-- Black Background Image -->
-    <img src="https://w0.peakpx.com/wallpaper/387/972/HD-wallpaper-black-colour-colors-full.jpg" 
-         alt="Black Background" style="width: 100%; height: auto; position: absolute; top: 0; left: 0; z-index: -1;">
-    <div style="position: relative; z-index: 1; color: white; padding: 20px; font-size: 24px;">
-        # Welcome to My GitHub Profile
-        <br>
-        Below are the languages and technologies I work with:
-        <ul>
-            <li>JavaScript</li>
-            <li>Python</li>
-            <li>Java</li>
-        </ul>
-    </div>
-</div>
+# Welcome to My GitHub Profile
+
+![Black Background](https://w0.peakpx.com/wallpaper/387/972/HD-wallpaper-black-colour-colors-full.jpg)
+
+Here are the languages and technologies I work with:
+
+- JavaScript
+- Python
+- Java
 
 
 ---
