@@ -2,8 +2,6 @@
     <!-- Black Background Image -->
     <img src="https://w0.peakpx.com/wallpaper/387/972/HD-wallpaper-black-colour-colors-full.jpg" 
          alt="Black Background" style="width: 100%; height: auto; position: absolute; top: 0; left: 0; z-index: -1;">
-    
-    <!-- Your Overlay Content -->
     <div style="position: relative; z-index: 1; color: white; padding: 20px; font-size: 24px;">
         # Welcome to My GitHub Profile
         <br>
