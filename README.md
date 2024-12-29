@@ -12,14 +12,12 @@ WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
 
 ---
 <br clear="both">
-###
----
 
-```
-Languages anf frameworks
-```
 
----
+<span style="user-select: none;">LANGUAGES AND FRAMEWORKS</span>
+
+
+
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -45,4 +43,5 @@ Languages anf frameworks
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
+---
 
