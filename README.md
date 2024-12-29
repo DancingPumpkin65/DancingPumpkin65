@@ -40,7 +40,7 @@ WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fw5gj2wkqhrc51.png%3Fwidth%3D160%26format%3Dpng%26auto%3Dwebp%26s%3D92b68f9d2b5696e2810d4d245e9c754adcb1715e" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 <br clear="both">
 
