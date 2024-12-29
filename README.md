@@ -15,9 +15,7 @@ WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
 <br clear="both">
 
 
-<span style="font-weight: bold; user-select: none;">LANGUAGES AND FRAMEWORKS</span>
-
-
+#LANGUAGES AND FRAMEWORKS
 
 
 <div align="center">
