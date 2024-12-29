@@ -36,6 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DancingPumpkin65/DancingPumpkin65/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DancingPumpkin65/DancingPumpkin65/raw/output/snake.svg" alt="Snake animation" />
 
 ###
