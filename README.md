@@ -1,5 +1,7 @@
 <br clear="both">
-
+<div align="center">
+  <img height="200" src="https://i.gifer.com/y7.gif"  />
+</div>
 
 ---
 
@@ -9,6 +11,7 @@ WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
 ```
 
 ---
+<br clear="both">
 
 ###
 
@@ -40,9 +43,7 @@ WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
 
 ###
 
-<img align="right" height="200" src="https://i.gifer.com/XOsX.gif"  />
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/DancingPumpkin65/DancingPumpkin65/output/snake.svg" alt="Snake animation" />
 
