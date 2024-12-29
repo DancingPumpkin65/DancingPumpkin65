@@ -24,4 +24,4 @@
 ┌───┴───┐ ┌───┴───┐ ┌───┴───┐
 │Actor 1│ │Actor 2│ │Actor 3│
 └───────┘ └───────┘ └───────┘
-</figcaption>figcaption>
+</figcaption>
