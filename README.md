@@ -1,4 +1,4 @@
-![Black Background]([https://path-to-your-image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.com%2Fvideos%2Fblack-color&psig=AOvVaw1kQ_kVkTGm4na__SaU4Np9&ust=1735577648396000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCdlr65zYoDFQAAAAAdAAAAABAE))
+![Black Background]([[https://path-to-your-image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.com%2Fvideos%2Fblack-color&psig=AOvVaw1kQ_kVkTGm4na__SaU4Np9&ust=1735577648396000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCdlr65zYoDFQAAAAAdAAAAABAE)](https://wallpapers.com/images/high/black-color-background-with-colorful-dyes-zz75hpuca64i1d05.webp))
 
 
 ---
