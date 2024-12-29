@@ -8,13 +8,15 @@
 ```
 A SEEKER OF PATTERNS, A BUILDER OF SYSTEMS. MY JOURNEY THROUGH THE LABYRINTH OF CODE INTERTWINES LOGIC AND CREATIVITY,
 WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
+
 ```
 
 ---
 <br clear="both">
 
 
-<span style="user-select: none;">LANGUAGES AND FRAMEWORKS</span>
+<span style="font-weight: bold; user-select: none;">LANGUAGES AND FRAMEWORKS</span>
+
 
 
 
