@@ -12,9 +12,14 @@ WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
 
 ---
 <br clear="both">
-
 ###
+---
 
+```
+Languages anf frameworks
+```
+
+---
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -41,10 +46,3 @@ WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DancingPumpkin65/DancingPumpkin65/output/snake.svg" alt="Snake animation" />
-
-###
