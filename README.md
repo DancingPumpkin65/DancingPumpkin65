@@ -53,4 +53,5 @@ WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
 2. The message is reversed. Decode it in reverse order to reveal the original message.
 3. The separator `#|#` splits the encoded parts.
 4. You'll need to subtract `48` from each number before converting it back to characters.
-<span style="font-family: 'Lucida Console';">foo</span>
+5. 
+<span style="font-family: 'sans serif';">FOO</span>
