@@ -54,4 +54,5 @@ WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
 3. The separator `#|#` splits the encoded parts.
 4. You'll need to subtract `48` from each number before converting it back to characters.
 5. 
-<span style="font-family: 'Arial';">FOO</span>
+<p style="font-family: Arial;">FOO</p>
+
