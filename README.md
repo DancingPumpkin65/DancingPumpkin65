@@ -11,13 +11,23 @@ A SEEKER OF PATTERNS, A BUILDER OF SYSTEMS. MY JOURNEY THROUGH THE LABYRINTH OF 
 WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
 
 ```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/DancingPumpkin65" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=ZzeDL3KeMGFW&format=png&color=FFFFFF" alt="gfdfgd" height="30" width="30" /></a>
+<img width="12" />
+<a href="https://github.com/DancingPumpkin65" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=YSWCDCSF4H3N&format=png&color=FFFFFF" alt="fdsfds" height="30" width="30" /></a>
+<img width="12" />
+<a href="https://www.codewars.com/users/DancingPumpkin65" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=HsO2a2iEBCJg&format=png&color=FFFFFF" alt="fdsf" height="35" width="35" /></a>
+<img width="12" />
+<a href="https://www.kaggle.com/dancingpumpkin65" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=1gfpj0O16MD1&format=png&color=FFFFFF" alt="fdgdgd" height="25" width="25" /></a>
+</p>
 
 ---
 
 ## LANGUAGES AND FRAMEWORKS
 
 
-<div align="center">
+<div align="left">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56ddcf59-3cb4-4f3d-851e-91ec86e67871/df9xsql-e57252a8-9e43-4673-8853-cf3b64d6bba0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2ZGRjZjU5LTNjYjQtNGYzZC04NTFlLTkxZWM4NmU2Nzg3MVwvZGY5eHNxbC1lNTcyNTJhOC05ZTQzLTQ2NzMtODg1My1jZjNiNjRkNmJiYTAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eAGQGy_Zmp702vlquTVBh65HpuqHfigYF6_t6GBrp6c" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://art.pixilart.com/thumb/ebb381d23a8ff08.png" height="30" alt="python logo"  />
@@ -53,6 +63,4 @@ WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
 2. The message is reversed. Decode it in reverse order to reveal the original message.
 3. The separator `#|#` splits the encoded parts.
 4. You'll need to subtract `48` from each number before converting it back to characters.
-5. 
-<p style="font-family: Arial;">FOO</p>
 
