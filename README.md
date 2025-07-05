@@ -26,33 +26,52 @@ WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
 
 ## LANGUAGES AND FRAMEWORKS
 
+### 🧰 Languages and Tools
 
-<div align="left">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56ddcf59-3cb4-4f3d-851e-91ec86e67871/df9xsql-e57252a8-9e43-4673-8853-cf3b64d6bba0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2ZGRjZjU5LTNjYjQtNGYzZC04NTFlLTkxZWM4NmU2Nzg3MVwvZGY5eHNxbC1lNTcyNTJhOC05ZTQzLTQ2NzMtODg1My1jZjNiNjRkNmJiYTAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eAGQGy_Zmp702vlquTVBh65HpuqHfigYF6_t6GBrp6c" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://art.pixilart.com/thumb/ebb381d23a8ff08.png" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56ddcf59-3cb4-4f3d-851e-91ec86e67871/df9xsqo-2fe2dc5c-9862-4a28-84bc-57adb7e2681e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2ZGRjZjU5LTNjYjQtNGYzZC04NTFlLTkxZWM4NmU2Nzg3MVwvZGY5eHNxby0yZmUyZGM1Yy05ODYyLTRhMjgtODRiYy01N2FkYjdlMjY4MWUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-pQrOOekatcOn1eawfz0H-Y7ksMj64ibZQdit3NGzQQ" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56ddcf59-3cb4-4f3d-851e-91ec86e67871/df9xsqb-7b418213-61e4-4f4e-8026-a34a04c4c0b1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2ZGRjZjU5LTNjYjQtNGYzZC04NTFlLTkxZWM4NmU2Nzg3MVwvZGY5eHNxYi03YjQxODIxMy02MWU0LTRmNGUtODAyNi1hMzRhMDRjNGMwYjEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7gzFQSrjt-mNisxYWJ9xngXdjUiCzuF2Imx1Sj9JpyY" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56ddcf59-3cb4-4f3d-851e-91ec86e67871/df9xsrn-71218398-1643-4901-9b80-9a2d87ebe855.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2ZGRjZjU5LTNjYjQtNGYzZC04NTFlLTkxZWM4NmU2Nzg3MVwvZGY5eHNybi03MTIxODM5OC0xNjQzLTQ5MDEtOWI4MC05YTJkODdlYmU4NTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.biKEdeNC72a5nfdJdJ1ZOAnug_2MVZXKx24ymcw3-Ww" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56ddcf59-3cb4-4f3d-851e-91ec86e67871/df9xsqj-be76bbce-cd60-409c-b941-4cf649c00e2c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2ZGRjZjU5LTNjYjQtNGYzZC04NTFlLTkxZWM4NmU2Nzg3MVwvZGY5eHNxai1iZTc2YmJjZS1jZDYwLTQwOWMtYjk0MS00Y2Y2NDljMDBlMmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HJrvlbuR-cUme7NGL7v1gbBV4g--K6IgTv5rFKIZiDg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
-<br clear="both">
+<p align="center" style="text-decoration: none;">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="height:50px;" alt="c logo" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="height:50px;" alt="cpp logo" />
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="height:50px;" alt="csharp logo" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="height:50px;" alt="java logo" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="height:50px;" alt="html logo" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="height:50px;" alt="css logo" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="height:50px;" alt="javascript logo" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="height:50px;" alt="react logo" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="height:50px;" alt="nodejs logo" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="height:50px;" alt="express logo" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="height:50px;" alt="mongodb logo" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="height:50px;" alt="mysql logo" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="height:50px;" alt="figma logo" />
+  </a>
+</p>
+
+
+
 
 ---
 **Hidden Message:**  
