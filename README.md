@@ -26,8 +26,6 @@ WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
 
 ## LANGUAGES AND FRAMEWORKS
 
-### 🧰 Languages and Tools
-
 <p align="center" style="text-decoration: none;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="height:50px;" alt="c logo" />
