@@ -26,8 +26,6 @@ WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
 
 ## LANGUAGES AND FRAMEWORKS
 
-## 🚀 Languages and Frameworks
-
 <p align="center">
     <!-- Java -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
