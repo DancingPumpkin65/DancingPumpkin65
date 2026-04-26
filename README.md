@@ -11,16 +11,35 @@ A SEEKER OF PATTERNS, A BUILDER OF SYSTEMS. MY JOURNEY THROUGH THE LABYRINTH OF 
 WHERE EVERY LINE TELLS A STORY AND EVERY FUNCTION HOLDS A SECRET.
 
 ```
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/DancingPumpkin65" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=ZzeDL3KeMGFW&format=png&color=FFFFFF" alt="gfdfgd" height="30" width="30" /></a>
-<img width="12" />
-<a href="https://github.com/DancingPumpkin65" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=YSWCDCSF4H3N&format=png&color=FFFFFF" alt="fdsfds" height="30" width="30" /></a>
-<img width="12" />
-<a href="https://www.codewars.com/users/DancingPumpkin65" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=HsO2a2iEBCJg&format=png&color=FFFFFF" alt="fdsf" height="35" width="35" /></a>
-<img width="12" />
-<a href="https://www.kaggle.com/dancingpumpkin65" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=1gfpj0O16MD1&format=png&color=FFFFFF" alt="fdgdgd" height="25" width="25" /></a>
-</p>
+<h3 align="center">Social Links</h3>
+
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://www.codewars.com/users/DancingPumpkin65">
+  <img src="https://img.icons8.com/?size=100&id=HsO2a2iEBCJg&format=png&color=FFFFFF" width="32" alt="Codewars">
+</a>
+<br>
+<b>Codewars</b>
+</td>
+
+<td align="center">
+<a href="https://www.kaggle.com/dancingpumpkin65">
+  <img src="https://img.icons8.com/?size=100&id=1gfpj0O16MD1&format=png&color=FFFFFF" width="32" alt="Kaggle">
+</a>
+<br>
+<b>Kaggle</b>
+</td>
+
+<td align="center">
+<a href="https://codepen.io/DancingPumpkin65">
+  <img src="https://img.icons8.com/?size=100&id=ZzeDL3KeMGFW&format=png&color=FFFFFF" width="32" alt="CodePen">
+</a>
+<br>
+<b>CodePen</b>
+</td>
+</tr>
+</table>
 
 ---
 
