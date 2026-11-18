@@ -1,4 +1,4 @@
-<br clear="both">
+
 ## ABOUT ME
 
 ```
