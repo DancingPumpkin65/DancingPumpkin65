@@ -1,9 +1,4 @@
 <br clear="both">
-<div align="center">
-  <img height="200" src="https://i.gifer.com/y7.gif"  />
-</div>
-
----
 ## ABOUT ME
 
 ```
